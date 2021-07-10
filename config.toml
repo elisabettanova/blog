@@ -1,4 +1,6 @@
-baseURL = "http://midorikocak.github.io/blog"
+baseURL = "https://midorikocak.github.io/"
 languageCode = "en-us"
 title = "Something Somethingn Midori Something"
 theme = "cactus"
+colortheme = "white"
+
